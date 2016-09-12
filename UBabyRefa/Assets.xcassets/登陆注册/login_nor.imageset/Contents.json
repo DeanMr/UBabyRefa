@@ -1,0 +1,65 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 34,
+          "top" : 38,
+          "right" : 108,
+          "left" : 122
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_nor.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 33,
+          "top" : 33,
+          "right" : 111,
+          "left" : 117
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_nor-1.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 34,
+          "top" : 29,
+          "right" : 107,
+          "left" : 114
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_nor-2.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

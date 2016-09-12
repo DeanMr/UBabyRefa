@@ -1,0 +1,41 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "1-2登录界面--输入状态320x568.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "1-2登录界面-640x1136.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "1-2登录界面--输入状态-1242x2208.png",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "login-1.jpg",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "login@2x-1.jpg",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "login@3x-1.jpg",
+      "unassigned" : true,
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
